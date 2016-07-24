@@ -1,0 +1,131 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+block
+  rotate: false
+  xy: 2, 12
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+bob-01
+  rotate: false
+  xy: 420, 32
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+bob-02
+  rotate: false
+  xy: 446, 32
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+bob-03
+  rotate: false
+  xy: 220, 4
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+bob-04
+  rotate: false
+  xy: 246, 4
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+bob-05
+  rotate: false
+  xy: 472, 32
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+bob-06
+  rotate: false
+  xy: 272, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+bob-down
+  rotate: false
+  xy: 298, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+bob-fire
+  rotate: false
+  xy: 220, 32
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+bob-fire1
+  rotate: false
+  xy: 270, 32
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+bob-fire2
+  rotate: false
+  xy: 320, 32
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+bob-fire3
+  rotate: false
+  xy: 370, 32
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+bob-up
+  rotate: false
+  xy: 324, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+btn_fire
+  rotate: false
+  xy: 52, 20
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+btn_jump
+  rotate: false
+  xy: 94, 20
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+btn_left
+  rotate: false
+  xy: 136, 20
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+btn_right
+  rotate: false
+  xy: 178, 20
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+knight-01
+  rotate: false
+  xy: 350, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1

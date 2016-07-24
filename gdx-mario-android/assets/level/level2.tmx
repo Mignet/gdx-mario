@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="20" tilewidth="48" tileheight="48" nextobjectid="1">
+ <tileset firstgid="1" name="level" tilewidth="48" tileheight="48">
+  <image source="level.png" width="96" height="48"/>
+ </tileset>
+ <layer name="blocks" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmdEKgCAQBPX/f7rnJPXO2/TAGfAhlKCdjCVrKaUmHzfhed7VbG7LNAI+cqHMqncvfNiJZNV+4/ERp81qdD3LFR9xVD5W5+DNqGPOuqe1k+JDxyxzS9b40KBw4VkHfVQuvGvhG4sL678NfMTxZku/2kf0/ceHFvpVHkZ7g361F+++4AzjDOSbB1z8y+mzWMu4iQeDXQCz
+  </data>
+ </layer>
+ <layer name="enemies" width="100" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt18EJAEAIA0Gx/6Lt4F4ngs5UEPaXCIAbcnrAcq++2gMAAN38DgAA4IcC0CAACQ==
+  </data>
+ </layer>
+</map>

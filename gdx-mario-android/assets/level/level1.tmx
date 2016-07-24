@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="100" tilewidth="48" tileheight="48" nextobjectid="1">
+ <properties>
+  <property name="isOutside" value="0"/>
+  <property name="name" value="Furnace"/>
+ </properties>
+ <tileset firstgid="1" name="level" tilewidth="48" tileheight="48">
+  <image source="level.png" width="96" height="48"/>
+ </tileset>
+ <layer name="blocks" width="20" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztllsOhTAIRO3+N31/G0JhGND7GpLGGPGAFYZe1/O2tvVptuc1leMyV/HEE+8/edP6Yt8XTzzxxOvyTmc09uyW+YsnnnjiiXcvbwHrMlfEf8LE+35e5G95SA1VeN4zZk3ZFM/2IhrX8/X2v5tXxmP/M5tfVhMTLIaHaLanuwzL8jp5VXjV/WB7v8pj6yjroS6v23+2nzvmzf/IL9POrr5H+XVZJ15nbtypB+/gIfEm6jeab9E9870sz9PlU/6dfvDiTunar7GiMwPDQv8XGsPWVjRPkHy9OjuxkLmV6VZ1H5n6PrGy+FXWzkM1G9H6F9YIAWw=
+  </data>
+ </layer>
+ <layer name="enemies" width="20" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1bsNACAIBUDj/kM7AoVRQe46Oj4vYQwAAAAguxnUUEmU31/znW2ubP1UYGdk1ymjnWa9Zec/uwcvyB2nLA8fABs=
+  </data>
+ </layer>
+</map>
